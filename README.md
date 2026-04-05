@@ -64,39 +64,5 @@ The system analyzes past climate data and combines it with live API data to prov
 ---
 
 ## 📂 Project Structure
-climate-weather-app/
-│
-├── data/                      # 📊 Dataset files
-│   ├── raw/                   # Original dataset
-│   └── processed/             # Cleaned dataset
-│
-├── notebooks/                 # 📓 Jupyter notebooks for EDA
-│   └── eda_analysis.ipynb
-│
-├── models/                    # 🤖 Saved ML models
-│   └── model.pkl
-│
-├── src/                       # 🔧 Source code
-│   ├── data_preprocessing.py
-│   ├── train_model.py
-│   ├── predict.py
-│   └── utils.py
-│
-├── app/                       # 🌐 Web application
-│   ├── app.py                 # Main app (Flask / Streamlit)
-│   ├── routes.py              # (if Flask)
-│   ├── templates/             # HTML templates (Flask)
-│   │   └── index.html
-│   └── static/                # CSS / JS files
-│
-├── api/                       # 🌐 API integration
-│   └── weather_api.py
-│
-├── config/                    # ⚙️ Config files
-│   └── config.py
-│
-├── .env                       # 🔑 Environment variables (API key)
-├── .gitignore                 # 🚫 Ignored files
-├── requirements.txt           # 📦 Dependencies
-├── README.md                  # 📘 Project documentation
-└── run.py                     # ▶️ Entry point (optional)
+<img width="546" height="566" alt="Screenshot 2026-04-05 155424" src="https://github.com/user-attachments/assets/3f253887-48f0-4234-a8a6-71eaaf1b3a2b" />
+
